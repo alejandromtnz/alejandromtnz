@@ -12,7 +12,7 @@ Data Architecture • Mathematical Modelling • Post-Quantum Cryptography • A
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/alejandromtnz/alejandromtnz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alejandromtnz/alejandromtnz/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
 
