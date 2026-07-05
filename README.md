@@ -24,4 +24,5 @@ Data Architecture • Mathematical Modelling • Post-Quantum Cryptography • A
     <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Mart%C3%ADnez%20Ronda-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
+
 ###
